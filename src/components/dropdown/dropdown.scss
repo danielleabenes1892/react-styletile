@@ -1,0 +1,14 @@
+.dropdown_container{
+    select{
+        padding: 5px 10px;
+        border-radius: 20px;
+        outline: none;
+        appearance: none;
+        max-width: 200px;
+        width: 100%;
+        background-image: url(../../assets/images/down-arrow.svg);
+        background-repeat: no-repeat;
+        background-position: 93%;
+        background-size: 10px;
+    }
+}

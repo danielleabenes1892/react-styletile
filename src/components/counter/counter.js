@@ -13,7 +13,6 @@ class Counter extends React.Component {
         this.setState({
           count: this.state.count + 1
         });
-        this.props.quantity(this.state.count);
       };
       
       decrement() {
@@ -22,7 +21,6 @@ class Counter extends React.Component {
                 count: this.state.count - 1
             });
         }
-        this.props.quantity(this.state.count);
       };
 
       render() {

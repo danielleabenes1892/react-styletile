@@ -1,0 +1,16 @@
+.tile_container{
+    max-width: 250px;
+    border: 1px solid #d8dadb;
+    border-radius: 10px;
+
+    .title{
+        border-bottom: 1px solid #d8dadb;
+        padding: 10px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .content{
+        padding: 20px;
+    }
+}

@@ -1,0 +1,91 @@
+@font-face {
+  font-family: OpenSans-Regular;
+  src: url(../src/assets/fonts/OpenSans-Regular.ttf) format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: OpenSans-Bold;
+  src: url(../src/assets/fonts/OpenSans-Regular.ttf) format('truetype');
+  font-display: swap;
+}
+
+.App {
+  text-align: left;
+  padding: 0 5% 5%;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+// Global CSS
+* {
+  font-family: 'OpenSans-Regular';
+}
+
+.bold {
+  font-family: 'OpenSans-Bold';
+}
+
+p, h2{
+  margin: 0 0 10px 0;
+}
+
+.container{
+  margin-bottom: 20px;
+  p{
+    font-size: 12px;
+  }
+}
+
+.status_section{
+  div{
+    margin-bottom: 10px;
+  }
+}
+
+
+/* Custom CSS - tile section */
+.tile_section{
+  label{
+    display: block;
+    font-weight: bold;
+    padding-bottom: 10px;
+  }
+
+  p{
+    margin: 0;
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

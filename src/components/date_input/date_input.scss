@@ -1,0 +1,14 @@
+.date_input_container{
+    input{
+        border-radius: 20px;
+        -webkit-appearance: none;
+        padding: 5px 10px;
+        box-sizing: border-box;
+        text-transform: uppercase;
+        outline: none;
+        appearance: none;
+        width: 100%;
+        max-width: 200px;
+        border: 1px solid #d8dadb;
+    }
+}
