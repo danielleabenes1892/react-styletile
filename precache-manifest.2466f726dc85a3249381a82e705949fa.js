@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3cd77e7f2b089f293430f5e41c1a19b1",
+    "revision": "d12c54cd93e69ba8e9b8a65789c8fce5",
     "url": "/react-styletile/index.html"
   },
   {
-    "revision": "f495e03a03cd9f170358",
-    "url": "/react-styletile/static/css/main.aeb461a0.chunk.css"
+    "revision": "6ea525a8fafa8a1972a3",
+    "url": "/react-styletile/static/css/main.05175c55.chunk.css"
   },
   {
-    "revision": "84f7f0e86289137617e2",
-    "url": "/react-styletile/static/js/2.fac03de5.chunk.js"
+    "revision": "1286ae62f87f389d698d",
+    "url": "/react-styletile/static/js/2.c4ca32f2.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/react-styletile/static/js/2.fac03de5.chunk.js.LICENSE.txt"
+    "url": "/react-styletile/static/js/2.c4ca32f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f495e03a03cd9f170358",
-    "url": "/react-styletile/static/js/main.5a6cd45b.chunk.js"
+    "revision": "6ea525a8fafa8a1972a3",
+    "url": "/react-styletile/static/js/main.f7157b81.chunk.js"
   },
   {
     "revision": "7d4898a8d3b3e18f14bc",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3fc898075b85bba3248d2e735ffece52",
     "url": "/react-styletile/static/media/down-arrow.3fc89807.svg"
+  },
+  {
+    "revision": "f8828e53f1b81880c27baf05af6004b8",
+    "url": "/react-styletile/static/media/icon-edit.f8828e53.svg"
   },
   {
     "revision": "5df6e4c8e3cbd869f68f3ce140990bfb",
