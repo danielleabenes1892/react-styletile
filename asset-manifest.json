@@ -1,26 +1,25 @@
 {
   "files": {
-    "main.css": "/react-styletile/static/css/main.05175c55.chunk.css",
-    "main.js": "/react-styletile/static/js/main.0904e4d1.chunk.js",
-    "main.js.map": "/react-styletile/static/js/main.0904e4d1.chunk.js.map",
+    "main.css": "/react-styletile/static/css/main.aeb461a0.chunk.css",
+    "main.js": "/react-styletile/static/js/main.5a6cd45b.chunk.js",
+    "main.js.map": "/react-styletile/static/js/main.5a6cd45b.chunk.js.map",
     "runtime-main.js": "/react-styletile/static/js/runtime-main.4548514f.js",
     "runtime-main.js.map": "/react-styletile/static/js/runtime-main.4548514f.js.map",
-    "static/js/2.c4ca32f2.chunk.js": "/react-styletile/static/js/2.c4ca32f2.chunk.js",
-    "static/js/2.c4ca32f2.chunk.js.map": "/react-styletile/static/js/2.c4ca32f2.chunk.js.map",
+    "static/js/2.fac03de5.chunk.js": "/react-styletile/static/js/2.fac03de5.chunk.js",
+    "static/js/2.fac03de5.chunk.js.map": "/react-styletile/static/js/2.fac03de5.chunk.js.map",
     "index.html": "/react-styletile/index.html",
-    "precache-manifest.bb47fbeaf03107f1cbf8cf174b213172.js": "/react-styletile/precache-manifest.bb47fbeaf03107f1cbf8cf174b213172.js",
+    "precache-manifest.5a8f747336cb8ca5d9defdc7d31c25cf.js": "/react-styletile/precache-manifest.5a8f747336cb8ca5d9defdc7d31c25cf.js",
     "service-worker.js": "/react-styletile/service-worker.js",
-    "static/css/main.05175c55.chunk.css.map": "/react-styletile/static/css/main.05175c55.chunk.css.map",
-    "static/js/2.c4ca32f2.chunk.js.LICENSE.txt": "/react-styletile/static/js/2.c4ca32f2.chunk.js.LICENSE.txt",
+    "static/css/main.aeb461a0.chunk.css.map": "/react-styletile/static/css/main.aeb461a0.chunk.css.map",
+    "static/js/2.fac03de5.chunk.js.LICENSE.txt": "/react-styletile/static/js/2.fac03de5.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/react-styletile/static/media/OpenSans-Regular.629a55a7.ttf",
     "static/media/dropdown.scss": "/react-styletile/static/media/down-arrow.3fc89807.svg",
-    "static/media/icon-edit.svg": "/react-styletile/static/media/icon-edit.f8828e53.svg",
     "static/media/counter.css": "/react-styletile/static/media/icon-plus.ab612d5e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.4548514f.js",
-    "static/js/2.c4ca32f2.chunk.js",
-    "static/css/main.05175c55.chunk.css",
-    "static/js/main.0904e4d1.chunk.js"
+    "static/js/2.fac03de5.chunk.js",
+    "static/css/main.aeb461a0.chunk.css",
+    "static/js/main.5a6cd45b.chunk.js"
   ]
 }
