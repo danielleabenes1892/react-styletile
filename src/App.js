@@ -33,52 +33,7 @@ function App() {
         <h2>Quantity Counter</h2>
         <Counter></Counter>
       </div>
-      <div className="container status_section">
-        <h2>Button Status</h2>
-        <div>
-          <p>Display with default selected value</p>
-          <FilterButton 
-          data={filterStatus} 
-          keyName="longLabel"
-          selected={3}
-          ></FilterButton>
-        </div>
-        <div>
-          <FilterButton data={filterStatus} keyName="shortLabel"></FilterButton>
-        </div>
-      </div>
-      <div className="container">
-        <h2>Dropdown</h2>
-        <Dropdown data={frequency}></Dropdown>
-      </div>
-      <div className="container">
-        <h2>Date Selector</h2>
-        <DateInput></DateInput>
-      </div>
-      <div className="container">
-        <h2>Badge</h2>
-        <Badge 
-          label="10% Off!" 
-          style={{'backgroundColor': '#000', 'color': 'yellow'}}
-        ></Badge>
-      </div>
-      <div className="container">
-        <h2>Link with icon</h2>
-        <ButtonIcon label="Edit" image={require('./assets/images/icon-edit.svg')}></ButtonIcon>
-        <ButtonIcon label="New Payment Method" image={require('./assets/images/icon-edit.svg')}></ButtonIcon>
-      </div>
-      <div className="container tile_section">
-        <h2>Tile</h2>
-        <Tile title="Delivery Details">
-          <label>Delivery Address</label>
-          <p>Felix Estelle 103/320 Liverpool Street Darlinghurst, NSW, 210</p>
-          <ButtonIcon label="Edit" image={require('./assets/images/icon-edit.svg')}></ButtonIcon>
-          <div className="method">
-            <label>Delivery Method</label>
-            <Dropdown data={frequency}></Dropdown>
-          </div>
-        </Tile>
-      </div>
+     
     </div>
   );
 }
